@@ -9,7 +9,7 @@ and wired everything up before I thought about the dial marking.
 The capacitors are in pairs and were given to me by my father who had a lot of parts.  He was kind enough to match them on
 his GENRAD 1650A impedance bridge.  It is important that the pairs match closely.
 
-I did point to point wiring and once start the design of a PCB, but I stopped.  After over 30 years it is still working
+I did point to point wiring and once started the design of a PCB, but I stopped.  After over 30 years it is still working
 just fine.
 
 I hope that you, the reader enjoy this.
